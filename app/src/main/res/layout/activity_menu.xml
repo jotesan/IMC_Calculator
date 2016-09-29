@@ -18,7 +18,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="openImcCalc"
-        android:text="IMC Calculator"
+        android:text="example text"
         android:id="@+id/imcCalculator" />
 
     <TextView
@@ -29,7 +29,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="openHelp"
-        android:text="Help"
+        android:text="example text"
         android:id="@+id/help" />
 
     <TextView
@@ -40,6 +40,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="openAbout"
-        android:text="About"
+        android:text="example text"
         android:id="@+id/about" />
 </LinearLayout>
